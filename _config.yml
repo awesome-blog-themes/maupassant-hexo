@@ -32,7 +32,7 @@ baidu_search: false ## Use Baidu search, true/false.
 swiftype: ## Your swiftype_key, e.g. m7b11ZrsT8Me7gzApciT
 tinysou: ## Your tinysou_key, e.g. 4ac092ad8d749fdc6293
 self_search: false ## Use a jQuery-based local search engine, true/false.
-google_analytics: G-L3VL1KX4HZ ## Your Google Analytics tracking id, e.g. UA-42425684-2
+google_analytics: G-L3VL1KX4HZ,UA-151168174-1 #G-L3VL1KX4HZ ## Your Google Analytics tracking id, e.g. UA-42425684-2
 baidu_analytics: 584ba9dd631b05e9e41f2c7c71f659eb ## Your Baidu Analytics tracking id, e.g. 8006843039519956000
 fancybox: true ## If you want to use fancybox please set the value to true.
 show_category_count: false ## If you want to show the count of categories in the sidebar widget please set the value to true.
